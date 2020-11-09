@@ -13,6 +13,7 @@ main{
     margin: 20px 0;
     border: 5px solid #0e4f1f;
     border-left: none;
+    padding: 32px;
 }
 .clearfix{
     clear: both;
