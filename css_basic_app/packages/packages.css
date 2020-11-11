@@ -83,3 +83,20 @@ main{
     font-weight: bold;
 }
 
+@media(min-width: 40rem){
+    main{
+      max-width: 1000px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+}
+
+@media(min-width: 1000px){
+    .package-link{
+        border-left: 4px solid #0e4f1f;
+    }
+
+    .package-free{
+        border-right: 4px solid #0e4f1f;
+    }
+}
