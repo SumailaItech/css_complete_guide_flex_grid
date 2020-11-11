@@ -25,6 +25,7 @@ bottom: 10%;
 color: #fff;
 font-weight: bold;
 font-size: 1.6rem;
+font-family: 'Anton', sans-serif;
 }
 
 @media(min-width: 40rem) and (min-height: 60rem){
@@ -34,12 +35,14 @@ font-size: 1.6rem;
     }
     #product-overview h1{
         font-size: 3rem;
+        
     }
 }
 
 .section-title{
     color:#2ddf5c;
     text-align: center;
+    font-family: 'Anton', sans-serif;
 }
 
 .plan{
